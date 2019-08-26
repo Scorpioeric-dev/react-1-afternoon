@@ -1,13 +1,12 @@
-import React, {Component} from 'react';
+import React, { Component } from "react";
+
 
 export default class TopicBrowser extends Component {
-    render() {
-        return (
-            <p>Hola Mundo!</p>
-        )
-    }
+  render() {
+    return (
+      <div>
+        <p>TopicBrowser</p>
+      </div>
+    );
+  }
 }
-
-
-
-
